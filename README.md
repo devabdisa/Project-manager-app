@@ -52,14 +52,6 @@ This is a simple project management application built with React and Tailwind CS
     Go to `http://localhost:5173` or the address provided by Vite.
 
 
-## State Management
-
-The application uses the `useState` hook to manage the state, including:
-
-*   `projectsState`: An object containing the selected project ID, the list of projects, and the list of tasks.
-    *   `selectedProjectID`: The ID of the currently selected project.
-    *   `projects`: An array of project objects.
-    *   `tasks`: An array of task objects.
 
 ## Tailwind CSS Configuration
 
